@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Comfortaa", sans-serif;
+}
+.navbar{
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.nav-link{
+    font-weight: bold;
+    margin-right: 50px;
+    margin: 10px;
+}
+
+.nav-link:hover{
+    border-bottom: 3px solid yellow;
+}
+
+#orange{
+    color: black;
+    font-size: 25px;
+    font-weight: 1600;
+}
+
+.fuild-container{
+    background-color: #f5df4e;
+    padding-bottom: 40px;
+}
+
+.main-head{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.main-dev{
+    font-weight: 900;
+    font-size: 50px;
+    margin: 20px 0px;
+}
+
+.add-main{
+    margin: 20px 0px;
+}
+
+.add-main::selection{
+    color: white;
+}
+
+.view-btn{
+    padding: 10px 25px;
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    font-weight: bold;
+}
+
+.per{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.btn-contact{
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
+.btn-contact:hover{
+    text-decoration: none;
+}
+
+.kicha{
+    margin-top: 30px;
+    width: 400px;
+    border-radius: 50%;
+    border: 8px #ffffff solid;
+}
+
+.about-head{
+    background-color: #f5df4e;
+    width: 200px;
+    align-items: center;
+    margin: auto;
+}
+
+#about-page{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.about-box{
+    text-align: center;
+}
+
+.about-head-2{
+    margin: 20px;
+}
+
+span{
+    font-weight: bold;
+    border-bottom: 3px solid #f5df4e;
+}
+
+.back-yellow{
+    text-align: center;
+    background-color: #f5df4e;
+    border-radius: 50%;
+}
+
+.top-mar{
+    margin-top: 20px;
+}
+
+.name-add-birth{
+    margin-top: 50px;
+}
+
+.weight{
+    font-weight: bold;
+}
+
+.padd-tp{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+#project-page{
+    background-color: #e9ecef;
+    padding-bottom: 30px;
+}
+
+.pro-head{
+    background-color: #f5df4e;
+    width: 200px;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.pro-top-box{
+    padding-top: 50px;
+}
+
+#project-page{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.pro-para{
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.icon-page{
+    margin-top: 100px;
+}
+
+.icon-head{
+    padding: 20px;
+    font-weight: bolder;
+}
+#contact-page{
+    background-color: #f5df4e;
+}
+.footer{
+    margin: auto;
+    padding: 100px;
+}
+
+.icon-social-media{
+    padding: 10px;
+}
+
+.foot-icon-color{
+    color: black;
+}
