@@ -15,10 +15,6 @@
     margin: 10px;
 }
 
-.nav-link:hover{
-    border-bottom: 3px solid yellow;
-}
-
 #orange{
     color: black;
     font-size: 25px;
